@@ -1,0 +1,9 @@
+node_modules/
+dist/
+PluginZip.zip
+.env
+.env.*
+.vscode/
+.idea/
+*.tsbuildinfo
+coverage/

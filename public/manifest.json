@@ -1,0 +1,22 @@
+{
+  "manifestVersion": 1,
+  "id": "bionify_remnote",
+  "name": "Bionify Reader for RemNote",
+  "author": "Liz Shaw",
+  "repoUrl": "https://github.com/liz-shaw/bionify",
+  "version": {
+    "major": 0,
+    "minor": 4,
+    "patch": 6
+  },
+  "theme": [],
+  "enableOnMobile": false,
+  "description": "A sandbox-safe Bionify reading interface for RemNote notes, with English and Chinese reading rules.",
+  "requestNative": false,
+  "requiredScopes": [
+    {
+      "type": "All",
+      "level": "Read"
+    }
+  ]
+}
